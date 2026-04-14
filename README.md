@@ -12,6 +12,12 @@ This simulates how organizations track system health, performance trends, and op
 
 ---
 
+## 📸 Dashboard Preview
+
+![Dashboard](dashboard-overview.png)
+
+---
+
 ## 🧠 Key Features
 
 - Interactive dashboard with filters and slicers  
@@ -59,7 +65,3 @@ This simulates how organizations track system health, performance trends, and op
 ## 💡 Why This Matters
 
 Monitoring and analyzing data is critical in IT operations. This project demonstrates how dashboards can provide visibility into system performance and support proactive decision-making.
-
-## 📸 Dashboard Preview
-
-![Dashboard](screenshots/dashboard-table.png)
