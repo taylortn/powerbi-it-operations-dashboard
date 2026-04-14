@@ -14,6 +14,8 @@ This simulates how organizations track system health, performance trends, and op
 
 ## 📸 Dashboard Preview
 
+An interactive Power BI dashboard visualizing IT operations and system performance metrics.
+
 ![Dashboard](dashboard-overview.png)
 
 ---
